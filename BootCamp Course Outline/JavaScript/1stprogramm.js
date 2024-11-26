@@ -10,3 +10,9 @@ if(age>=18){
 else {
     console.log(`You are not Eligible For this Opportunity ${age}`)
 }
+
+function simple(){
+    console.log("Simple Function Tested")
+}
+
+simple()
